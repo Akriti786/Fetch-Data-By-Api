@@ -1,3 +1,5 @@
+//BY BOOTSTRAP INSTALLATION //
+
 // import "./App.css";
 // import { useEffect, useState } from 'react';
 // import axios from 'axios';
@@ -56,7 +58,7 @@
 
 
 
-
+// MATERIAL UI //
 
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
