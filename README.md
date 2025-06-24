@@ -1,4 +1,5 @@
 CLIENT SIDE 
+
 Make a client folder
 open in VS Code
 npm init vite
@@ -13,6 +14,7 @@ FOR RUNNING npm run dev
 
 
 SERVER SIDE 
+
 make a server folder
 npm init -y
 npm install express mongoose cors nodemon
@@ -23,6 +25,7 @@ FOR RUNNING (node server.js(filename) )
 
 
 FULL AND FINALL IN ONE FOLDER
+
 make a new folder 
 open in VS Code
 drag and drop client and server folder 
