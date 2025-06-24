@@ -1,5 +1,4 @@
 CLIENT SIDE 
-
 Make a client folder
 open in VS Code
 npm init vite
@@ -11,8 +10,6 @@ cd ..
 code ./client
 install in terminal (npm install @mui/material @emotion/react @emotion/styled)
 FOR RUNNING npm run dev
-
-
 
 
 SERVER SIDE 
